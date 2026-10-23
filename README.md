@@ -1,4 +1,4 @@
 # CTF-Erronka1-Talde2
-Hemen iritsi bazarete, ez zaudete oker.
-Bi aukera daude, edozertaz ez dakizue nola jarraitu edo hain gainezka zaudete Readme-ak irakurtzen dituzuenak.
-Bigarrena bada, irakurtzea gustatzen zaizue, hartu ondo irakurtzeko.
+Honaino iritsi bazarete, 
+Baliteke zenbait gauza izatea, ideiarik ere ez izatea edo hain ondo joatea, ezen lehendabizi README.txt irakurtzen baituzue. 
+Ni, zuek nire urratsen inguruan itzuliko nintzatekeenak, gogoratu 2 artxibo ezkutuan zeudela, zorte on!
